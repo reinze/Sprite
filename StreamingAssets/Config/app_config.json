@@ -1,0 +1,23 @@
+{
+    "backgroundFileName": "bg.png",
+    "variations": [
+        {
+            "name": "Ghibli",
+            "mode": 2,
+            "prompt": "Transform the reference photo into a classic Studio Ghibli-inspired hand-painted animated character.\\n\\nHighest priority: preserve the exact identity of the person.\\n\\nKeep the original face shape, eye shape, eyebrows, nose shape, lip shape, jawline, cheek structure, skin tone, hairstyle, hairline, age appearance, facial proportions, and distinctive facial features exactly as in the reference photo.\\n\\nThe character must be instantly recognizable as the same person. Do not redesign, beautify, idealize, or alter the person's facial structure.\\n\\nSame person, same face, same identity, only translated into a traditional hand-painted animated film style.\\n\\nClassic Studio Ghibli-inspired aesthetic, authentic 2D hand-drawn animation, watercolor-painted backgrounds, soft cel shading, clean line art, warm cinematic lighting, natural human proportions, detailed painterly textures, feature film quality, emotional storytelling atmosphere.\\n\\nNatural eyes proportional to the original face, realistic facial anatomy, subtle expression, soft colors, beautiful environmental painting, fantasy countryside, magical village, lush forest scenery, nostalgic and heartwarming mood.\\n\\nThe result should look like a frame from a hand-painted animated feature film while maintaining maximum facial resemblance to the original photograph.\\n\\nNegative Prompt (sangat penting):\\n\\ndifferent face, face redesign, identity loss, altered facial structure, beautified face, anime face, oversized eyes, bigger eyes, smaller nose, different nose, different lips, different jawline, different hairstyle, younger face, older face, doll face, pixar face, disney face, generic anime character, low resemblance, plastic skin, CGI, 3d render",
+            "thumbnailFileName": "brzkFfeD55x2HsmLy5RjY_4eP4Q5Id.jpg",
+            "templateFileName": "",
+            "modelEndpoint": "xai/grok-imagine-image/edit",
+            "frameFileName": ""
+        },
+        {
+            "name": "Disney",
+            "mode": 2,
+            "prompt": "Recreate the person in the reference photo as a Pixar 3D animated movie character. Use the Pixar signature style: oversized rounded head proportionally larger than the body, large glossy brown expressive eyes with detailed iris and bright catchlights, smooth warm peachy skin with soft subsurface scattering, round chubby cheeks with subtle rosy blush, small simplified nose, gentle charming smile showing teeth. The character must be clearly recognizable as the same person — preserve hair color, hairstyle, skin tone, facial structure, and glasses if present — but fully rendered in Pixar 3D CGI art style. The body should be slightly smaller relative to the head, Pixar character proportion. Wear a stylized version of the original outfit with clean fabric detail. Background: warm colorful Pixar world — soft bokeh park, colorful fantasy town, or indoor cozy room with warm lighting. Cinematic Pixar studio lighting, soft key light from above, rim light, ambient occlusion, high detail 3D render, vibrant saturated colors, subsurface skin shading, individual hair strand detail, depth of field background blur, movie still quality. Must look like an official character from a Pixar animated feature film.",
+            "thumbnailFileName": "xyB3WFthBv5VdyHSVMVCr_b70c99a6d59840c0856604191707684a.png",
+            "templateFileName": "",
+            "modelEndpoint": "xai/grok-imagine-image/edit",
+            "frameFileName": ""
+        }
+    ]
+}
